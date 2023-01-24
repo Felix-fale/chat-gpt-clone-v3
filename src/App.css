@@ -22,6 +22,12 @@
   border: 1px solid whitesmoke;
   border-radius: 15px;
   padding: 10px;
+  cursor: pointer;
+}
+
+.grid-child:hover{
+  background-color: whitesmoke;
+  color: #212121;
 }
 
 .grid-child h3{
